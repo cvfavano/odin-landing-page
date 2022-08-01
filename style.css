@@ -75,3 +75,7 @@ nav ul li a:hover{
 .callouts-container .item img{
     width: 200px;
 }
+
+footer p{
+text-align: center;
+}
