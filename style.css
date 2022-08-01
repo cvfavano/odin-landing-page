@@ -45,3 +45,33 @@ nav ul li a:hover{
     transition: 1s;
 }
 
+.content {
+    background: #fff;
+}
+
+.hero-container {
+    display: flex;
+    padding: 15px;
+    margin: 0 auto; 
+    max-width: 1280px;
+    justify-content: space-between;
+}
+
+.hero-container h1 {
+    width: 100%;
+}
+
+.callouts-container {
+    display: flex;
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 1280px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.callouts-container h2 {
+    width: 100%;
+}
+.callouts-container .item img{
+    width: 200px;
+}
