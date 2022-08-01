@@ -197,3 +197,14 @@ footer p {
     }
 
 }
+
+@media (max-width: 680px) {
+    .callouts-container {
+        justify-content: space-between;
+        flex-direction: column;
+        max-width: 222px;
+    }
+    .callouts-container .item {
+        margin: 0 auto;
+    }
+}
