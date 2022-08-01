@@ -13,3 +13,9 @@ https://www.pexels.com/@aditya-aiyar-615049/
 
 Amina filkins
 https://www.pexels.com/@amina-filkins/
+
+Dorothe 
+https://pixabay.com/users/darkmoon_art-1664300/
+
+Tithi Luadthong
+https://pixabay.com/users/grandfailure-7354324/
