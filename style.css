@@ -63,17 +63,50 @@ nav ul li a:hover{
 
 .callouts-container {
     display: flex;
+  
     padding: 15px;
     margin: 0 auto;
-    max-width: 1280px;
+    max-width: 800px;
     flex-wrap: wrap;
     justify-content: space-between;
 }
 .callouts-container h2 {
     width: 100%;
 }
+.callouts-container .item {
+    flex: 1 1 180px;
+}
 .callouts-container .item img{
-    width: 200px;
+    width: 150px;
+}
+
+.quote-container {
+    display: flex;
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 800;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background: red;
+    justify-content: right;
+}
+.quote-container .quote{
+    font-size: 2.5em;
+    font-style: italic;
+    padding: 0 45px;
+}
+
+.quote-container .person {
+
+}
+.CTA-container{
+    display: flex;
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 850;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: blue;
 }
 
 footer p{
